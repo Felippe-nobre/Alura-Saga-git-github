@@ -15,3 +15,5 @@ git clone: Serve para baixar uma cópia de um repositório hospedado no GitHub p
 git remote: Serve para visualizar os repositórios remotos linkados com o repositório local
 
 git reverte: Serve para voltar uma alteração realizada no codigo 
+
+git --amend: Serve para modificar o último commit efetuado, alterando sua mensagem ou modificações no código -> git commit --amend -m "sua mensagem nova"
