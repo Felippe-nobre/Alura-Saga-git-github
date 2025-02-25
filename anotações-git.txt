@@ -13,3 +13,5 @@ git log: Serve para ver o historico de commit do nosso repositorio
 git clone: Serve para baixar uma cópia de um repositório hospedado no GitHub para o seu computador
 
 git remote: Serve para visualizar os repositórios remotos linkados com o repositório local
+
+git reverte: Serve para voltar uma alteração realizada no codigo 
