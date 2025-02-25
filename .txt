@@ -1,0 +1,15 @@
+git status: Serve para verificar quais arquivos foram modificados
+
+git add: Serve para adicionar mudanças -> git add . | ou git add "aqui você coloca o nome do arquivo que você quer enviar a mudanças
+
+git commit: Serve para registar as mudanças no repositorio -> git commit -m ""
+
+git push: Serve para subir as mudanças para o repositorio -> git push origin main
+
+git pull: Serve para baixar as mudanças para o repositorio local -> git pull origin main
+
+git log: Serve para ver o historico de commit do nosso repositorio
+
+git clone: Serve para baixar uma cópia de um repositório hospedado no GitHub para o seu computador
+
+git remote: Serve para visualizar os repositórios remotos linkados com o repositório local
