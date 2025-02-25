@@ -20,4 +20,6 @@ git --amend: Serve para modificar o último commit efetuado, alterando sua mensa
 
 gitiginore: Serve para que podemos esconder alguns arquivo espesfico para, que outras pessoas não vejam, pois pode ser alguma senha e precisamos guardar essa informação
 
-git show:
+git show: Conhecemos o comando git show, que nos exibe os detalhes de um commit específico;
+
+git diff: Utilizamos o comando git diff para visualizar as diferenças entre dois pontos no histórico de nosso repositório git.
