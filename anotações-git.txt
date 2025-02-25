@@ -17,3 +17,5 @@ git remote: Serve para visualizar os repositórios remotos linkados com o reposi
 git reverte: Serve para voltar uma alteração realizada no codigo 
 
 git --amend: Serve para modificar o último commit efetuado, alterando sua mensagem ou modificações no código -> git commit --amend -m "sua mensagem nova"
+
+gitiginore: Serve para que podemos esconder alguns arquivo espesfico para, que outras pessoas não vejam, pois pode ser alguma senha e precisamos guardar essa informação
